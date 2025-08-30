@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "name": "noop",
+      "company": "Acacia",
+      "author": "Cline",
+      "version": "0.1.0"
+    }
+  ],
+  "gateways": [
+    {
+      "name": "devnull",
+      "company": "Acacia",
+      "author": "Cline",
+      "version": "1.0.0"
+    }
+  ],
+  "registrySources": []
+}
